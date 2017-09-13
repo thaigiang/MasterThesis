@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1291799087",
+    "firebase_url": "https://masterthesis-ac49c.firebaseio.com",
+    "project_id": "masterthesis-ac49c",
+    "storage_bucket": "masterthesis-ac49c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1291799087:android:baf6c7f93e331e48",
+        "android_client_info": {
+          "package_name": "com.masterthesis.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1291799087-d0f536lk85ikfp3gp9ujk8v16tnk1ki6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEYTe1ahVqbkN8borqR9B4PckY2bx0ZGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
